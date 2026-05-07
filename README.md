@@ -10,7 +10,7 @@ Static GitHub Pages site for Lincoln Ops.
 
 ## Publishing
 
-Create a public GitHub repository named `lincolnops.github.io` under the `lincolnops` GitHub owner, then push this repository's `main` branch.
+Create a public GitHub repository named `lincolnops` under the `randomlincoln` GitHub owner, then push this repository's `main` branch.
 
 The included `CNAME` file sets the custom domain to `lincolnops.com`.
 
